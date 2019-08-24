@@ -1,0 +1,137 @@
+
+header {
+    width: 100%;
+    background-color: #219ccc;
+    margin: 0px;
+    padding: 0px;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+footer {
+    width: 100%; 
+    background-color: #219ccc;
+    position: fixed;
+    height: 59px;
+    font-size: 22px;
+    left: 0;
+    bottom: 0;
+}
+.error {
+	color: #ff0000;
+	font-style: italic;
+	font-weight: bold;
+}
+#text {
+    font-size: 50px;
+    color: #FFFFFF;
+    margin-left: 80px;
+    margin-top: 5px;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#image {
+    margin-left: 70px;
+    padding-top: 15px;
+    display: inline-block;
+}
+#ftext {
+    padding-top: 20px;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#unordered {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+#list {
+    float: left;
+  }
+#log{
+        color: #011108;
+        padding-top: 10px;
+        text-align: center;
+        font-weight: bold;
+        font-size: 40px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+table td {
+  padding-top: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: none; 
+}
+table {
+  width: 45%;
+  margin: 20px auto;
+  margin-left: 650px;
+  float: none;
+}
+#table {
+  padding:20px;
+  margin: 15px auto;
+  margin-left: 720px;
+  float: none;
+}
+.btn{
+  width: 150px;
+  height: 50px;
+  margin-left: 880px;
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#button
+{
+  width: 100px;
+  height: 50px;
+  margin-left: 120px;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#gmbutton
+{
+  width: 75px;
+  height: 40px;
+  margin-left: 900px;
+  padding: 10px;
+  font-size: 13px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#body-text
+{
+  padding-top: 75px;
+  text-align: center;
+  font-size: 27px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#search
+{
+  padding-top: 85px;
+  text-align: center;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#upload{
+  width: 75px;
+  height: 40px;
+  margin-left: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+
+}
+#navitem
+{
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#navbarDropdown{
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#navitem:hover{
+  background-color:black;
+}
